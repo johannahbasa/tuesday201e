@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tueday201e
+#
+
+projectname: tueday201e
+vendorid: com.mycompany
+mainmodule: com.mycompany.tueday201e
